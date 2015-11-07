@@ -1,4 +1,4 @@
-# nom-tam-fits backbos test fits images
+# nom-tam-fits backbox test fits images
 
 In this repository we store test images that are used for blackbox testing. These fits files where provided to us by people helping nom-tam-fits.
 
