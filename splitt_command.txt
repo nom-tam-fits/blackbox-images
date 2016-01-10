@@ -1,0 +1,1 @@
+split --suffix-length=2 --additional-suffix=".part" --bytes=50M --numeric-suffixes tu1134529.fits tu1134529.fits 
